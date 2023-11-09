@@ -212,7 +212,7 @@ Check between last accepted object version and holden changes
 - ⌛ Access validated data with Overpass Like API
 - 🯀 LoCha Validation
 
-[Beta Demo](https://clearance-dev.teritorio.xyz/landes_tourism_poi/changes_logs/)
+Demo Beta: [https://clearance-dev.teritorio.xyz](https://clearance-dev.teritorio.xyz)
 
 ---
 
@@ -223,5 +223,15 @@ Clearance: OSM Extracts under quality conformance
 - Prototype in progress
 - Ask for new project on the Beta instance
 - https://github.com/teritorio/clearance
-- https://github.com/teritorio/clearance-frontend
-- State of the arts https://medium.com/@frederic.rodrigo/state-of-the-art-openstreetmap-extraction-synchronization-under-quality-constraints-3d46907c5151
+- State of the arts https://s.carto.guide/69d5vq
+
+---
+
+`takeaway=slides`
+
+![](include/qrcode.svg)
+
+https://s.carto.guide/ib3j0m
+
+Demo Beta
+[https://clearance-dev.teritorio.xyz](https://clearance-dev.teritorio.xyz)
